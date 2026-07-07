@@ -53,10 +53,16 @@ Cada projeto aqui existe para:
 
 ## 📌 Projetos em Destaque
 
-### 🔹 [Nome do Projeto 1](LINK)
+### 🔹 Memories Box 
 
-Breve descrição do problema que o projeto resolve.
-O que você aprendeu construindo ele.
+O projeto visa simular um espaço íntimo aos usuários entre si, podendo construir e organizar memórias juntos.
+Aprendi a usar ferramentas de front-end complexas focadas em UI/UX, incluindo lousa de desenhos (Canvas API), 
+manipulação de objetos flutuantes, compressão nativa de imagens e exportação de páginas HTML para PDF.
+
+### 🔹 Que filme assistir?
+
+Este simples site, com um design inspirado em cinema antigo, tem por objetivo mostrar os melhores filmes de cada
+ano, dando algumas ideias de filmes que se possa assistir.
 
 ---
 
